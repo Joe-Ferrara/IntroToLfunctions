@@ -1,3 +1,3 @@
 # IntroToLfunctions
 
-Code for the series of blog posts found at my github page that give an introduction to L-functions. (My github page can be found [here](https://joe-ferrara.github.io/).)
+Code for the examples in the following series of posts on L-functions in number theory: [The Riemann Zeta Function](https://joe-ferrara.github.io/2020/03/06/riemann-zeta.html), [L-series and the Class Number Formula](https://joe-ferrara.github.io/2020/03/13/l-functions-ii.html), [Quadratic Fields](https://joe-ferrara.github.io/2020/03/22/l-functions-iii.html), [Units and Imaginary Quadratic Class Numbers](https://joe-ferrara.github.io/2020/03/31/l-functions-iv.html), [Real Quadratic Class Numbers](https://joe-ferrara.github.io/2020/04/02/l-functions-v.html), and [(p-adic) Stark's Conjectures](https://joe-ferrara.github.io/2020/04/06/l-functions-vi.html).
